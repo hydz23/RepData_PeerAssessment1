@@ -18,8 +18,8 @@ output:
 
 
 
-## Imputing missing values
+## Inputing missing values
 
 
 
-## Are there differences in activity patterns between weekdays and weekends?
+## Are there differences in activity pattern between weekdays and weekends?
