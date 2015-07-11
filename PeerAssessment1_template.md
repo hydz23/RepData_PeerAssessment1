@@ -11,6 +11,8 @@ output:
 ```r
 #Load the data (i.e. read.csv())
 df <- read.csv("activity.csv")
+#Data from activity.csv will be read
+
 
 #Process/transform the data (if necessary) into a format suitable for your analysis
 df$date <- as.Date(df$date)
